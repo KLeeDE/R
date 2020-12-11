@@ -1,2 +1,2 @@
 # R
-Environmental Computing with R (GEOG673-050)
+Environmental Computing with R 
